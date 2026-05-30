@@ -1,8 +1,10 @@
 # AI Task Manager 🤖
 
-A smart task manager where you describe tasks in plain English and AI handles the rest.
+🚀 Live Demo: (https://ai-task-manager-beryl-delta.vercel.app/)
 
-**Live Demo:** https://your-app.vercel.app
+💻 GitHub Repository: https://github.com/ASKAYSANCHIT/ai-task-manager
+
+AI-powered task management application using Next.js, Groq LLM, Supabase, TypeScript and natural language task parsing.
 
 ## What it does
 
